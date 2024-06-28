@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leila
-- 🌱 I’m currently learning Javascript | Java |Python
+- 🌱 I’m currently learning Java | Python | Javascript
 - 📖 Software Engineering and Artificial Intelligence student
 
 <!---
